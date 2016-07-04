@@ -17,6 +17,7 @@ namespace ServerMesseger
             {
                 Console.WriteLine(u.Loggin);
             }
+            Server server = new Server(6487);
         }
     }
 }

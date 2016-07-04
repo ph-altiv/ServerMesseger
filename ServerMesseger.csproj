@@ -52,6 +52,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\Server.cs" />
     <Compile Include="Classes\User.cs" />
     <Compile Include="Classes\UserContext.cs" />
     <Compile Include="Program.cs" />
